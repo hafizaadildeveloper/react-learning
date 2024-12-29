@@ -1,0 +1,3 @@
+vite-project
+cd "C:\Users\saiye\OneDrive\Desktop\fullstack-developer-academy\Repositories-hafizaadildeveloper-personal\LEARNING__PROGRESS-Group\MERN-s-learning-github-connected\react-learning-github-connected\quick_start\vite-project"
+npm list -g --depth=0
